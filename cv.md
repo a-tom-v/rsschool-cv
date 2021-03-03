@@ -11,3 +11,5 @@
 ## **Education:**
 
 ## **Belarusian State Medical University**, medical faculty (1999 -2000), pulmonologist *Speciality:* pulmonologist, radiologist.
+
+## **RS Shcool** *JS / FRONT-END* (in progress)
