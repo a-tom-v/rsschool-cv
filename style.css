@@ -68,8 +68,9 @@ img{vertical-align: top;}
     flex-direction: column;
     align-items: center;
 }
-.h3 {
+.h2 {
     margin: 20px;
+    margin-bottom: 5px;
 }
 
 .contacts{
@@ -107,6 +108,7 @@ img{vertical-align: top;}
 .footer {
     display: flex;
     justify-content: space-around;
+    margin-top: 15px;
 }
 
 .github-logo {
@@ -118,9 +120,5 @@ img{vertical-align: top;}
 }
 
 h4 {
-    margin-bottom: 10px;
-}
-
-h3 {
-    margin-bottom: 5px;
+    margin: 10px;
 }
