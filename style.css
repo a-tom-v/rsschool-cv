@@ -80,13 +80,13 @@ img{vertical-align: top;}
 }
 .mobile {
     display: flex;
-    flex-basis: content;
+    align-items: center;
     line-height: 1.5;
 }
 
 .email{
     display: flex;
-    flex-basis: content;
+    align-items: center;
     line-height: 1.5;
 }
 
@@ -108,6 +108,7 @@ img{vertical-align: top;}
 .footer {
     display: flex;
     justify-content: space-around;
+    align-items: center;
     margin-top: 15px;
 }
 
